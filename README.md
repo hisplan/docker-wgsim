@@ -1,5 +1,7 @@
 # docker-wgsim
 
+Simulating sequence reads from a reference genome
+
 ## Building docker-wgsim
 
 ```
